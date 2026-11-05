@@ -77,5 +77,7 @@ Project: Excel Sales Analytics Mini Project
 Created using: Microsoft Excel
 
 ## Dashboard Preview
-![Sales Analytics Dashboard](Screenshots/Screenshot2026-11-05104427.png)
+![Sales Analytics Dashboard](Screenshots/Dashboard.png)
+
+
 
