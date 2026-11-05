@@ -78,4 +78,5 @@ Created using: Microsoft Excel
 
 ## Dashboard Preview
 
-![Sales Analytics Dashboard](Screenshots/Dashboard.png)
+![Sales Analytics Dashboard](Screenshots/Screenshot 2026-11-05 104427)
+
