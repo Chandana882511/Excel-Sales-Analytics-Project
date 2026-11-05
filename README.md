@@ -75,3 +75,7 @@ The project demonstrates how Microsoft Excel can transform sales data into meani
 
 Project: Excel Sales Analytics Mini Project
 Created using: Microsoft Excel
+
+## Dashboard Preview
+
+![Sales Analytics Dashboard](Screenshots/Dashboard.png)
